@@ -1,9 +1,11 @@
 # double-square_queue
 Scala OOPs Assignment 2 by Shreyash Kumar
 
-##Scala OOPs Assignment 2
+##Scala OOPs Assignment 2##
 
 Make a trait Queue which performs two functions of enqueue and dequque.
+
+
 *(i) Two classes: DoubleQueue and SquareQueue mix in this trait.*
 
 
