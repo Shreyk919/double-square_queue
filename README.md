@@ -6,10 +6,10 @@ Scala OOPs Assignment 2 by Shreyash Kumar
 Made a trait **queue** which performs two functions of insertion and deletion.
 
 
-*(i) Two classes: **DoubleQueue** and **SquareQueue** mix in this trait.
+(i) Two classes: **DoubleQueue** and **SquareQueue** mix in this trait.
 
 
-*(ii) Used List for the implementation and made methods **enqueue** & **dequeue** methods for insertion and deletion respectively alongwith **printQueue** method to display queue as list
+(ii) Used List for the implementation and made methods **enqueue** & **dequeue** methods for insertion and deletion respectively alongwith **printQueue** method to display queue as list
 
 **DoubleQueue** enqueues the element after doubling them
 
